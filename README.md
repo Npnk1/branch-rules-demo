@@ -1,2 +1,3 @@
 # branch-rules-demo
-Test from feature branch
+Test branch protection
+
